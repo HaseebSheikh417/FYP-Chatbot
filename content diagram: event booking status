@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T09:48:50.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.7" etag="r9UgC4i4CRaoGJ4aJqpT" type="github"><diagram id="Wfc31MiVLVc5BcHPVBOJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-27T09:54:02.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="_SYpgEx6rha3m1OHuR7l" version="14.2.7" type="github">
+  <diagram id="Wfc31MiVLVc5BcHPVBOJ" name="Page-1">
+    <mxGraphModel dx="1422" dy="848" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A0dvd0Cp-VvdUOy1RrNF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0dvd0Cp-VvdUOy1RrNF-1" target="A0dvd0Cp-VvdUOy1RrNF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A0dvd0Cp-VvdUOy1RrNF-1" value="Event System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37" y="257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0dvd0Cp-VvdUOy1RrNF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A0dvd0Cp-VvdUOy1RrNF-2" target="A0dvd0Cp-VvdUOy1RrNF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A0dvd0Cp-VvdUOy1RrNF-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A0dvd0Cp-VvdUOy1RrNF-2" target="A0dvd0Cp-VvdUOy1RrNF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A0dvd0Cp-VvdUOy1RrNF-2" value="Show the event status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0dvd0Cp-VvdUOy1RrNF-4" value="Can not cancel if accepted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0dvd0Cp-VvdUOy1RrNF-6" value="Cancel if pending" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="351" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
